@@ -11,7 +11,7 @@ import time
 st.title('covid_19_clean_complete')
 
 
-DATA_URL = ('streamlit/covid.csv')
+DATA_URL = ('covid.csv')
 @st.cache(allow_output_mutation=True)
 
 def load_data():
