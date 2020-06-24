@@ -1,0 +1,7 @@
+streamlit==0.62.0 
+pandas==1.0.5
+numpy==1.19.0
+pydeck==0.3.1
+altair==3.3.0
+datetime==4.3
+time
