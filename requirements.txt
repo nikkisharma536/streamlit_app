@@ -1,6 +1,0 @@
-altair==4.1.0
-~umpy==1.15.4
-pandas==0.23.4
-pydeck==0.3.1
-streamlit==0.58.0
-numpy==1.19.0
