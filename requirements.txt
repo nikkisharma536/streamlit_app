@@ -2,4 +2,4 @@ altair==4.1.0
 pandas==0.23.4
 streamlit==0.58.0
 pydeck==0.3.1
-numpy==1.19.0
+numpy==1.22.0
